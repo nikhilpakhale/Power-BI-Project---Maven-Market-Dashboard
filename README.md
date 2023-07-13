@@ -2,7 +2,7 @@ This is my 1st Power BI dashboard project using the various functionalities avai
 
 While executing the project, I learned the ETL process in Power Query, Data Cleaning, Data Modeling in Model view, Data Analysis Expressions (DAX) measures and Data Visualization in the report view.
 
-*This dashboard was done as an exercise in the course 'Microsoft Power BI Desktop for Business Intelligence (2023)' by Maven Analytics on Udemy.*
+*This dashboard was practiced as an exercise in the course 'Microsoft Power BI Desktop for Business Intelligence (2023)' by Maven Analytics on Udemy.*
 
 **Objective:** Maven Market is a multi-national grocery store chain with locations in USA, Canada and Mexico. The exercise was to design and execute an end to end business intelligence solution from scratch using the data files.
 
