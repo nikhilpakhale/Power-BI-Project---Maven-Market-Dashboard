@@ -17,7 +17,7 @@ While executing the project, I learned the ETL process in Power Query, Data Clea
 
 ![image](https://github.com/nikhilpakhale/Power-BI-Project-Maven-Market-Dashboard/assets/139328207/7a8d9fe5-c148-4ee5-8354-147f00787eb9)
 
-**Notes:** The 'i' is a clickable button and lands to the report as per the written insight. 
+**Notes:** *The 'i' is a clickable button and lands to the report as per the written insight.*
 
 ![image](https://github.com/nikhilpakhale/Power-BI-Project-Maven-Market-Dashboard/assets/139328207/4fe43080-6f46-4ced-b926-0671630d7a5a)
 
